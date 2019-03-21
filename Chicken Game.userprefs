@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{A62E6D50-2DB4-30AD-54CC-284EB28BCB09}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Chicken_220Game PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
